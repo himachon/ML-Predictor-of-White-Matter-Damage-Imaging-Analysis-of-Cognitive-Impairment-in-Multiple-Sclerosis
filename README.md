@@ -1,2 +1,2 @@
-# ML-Predictor-of-White-Matter-Damage-Imaging-Analysis-of-Cognitive-Impairment-in-Multiple-Sclerosis
+# ML-Predictor-of-White-Matter-Damage-for-Cognitive-Impairment-in-Multiple-Sclerosis
 Machine Learning project predicting white matter damage in Multiple Sclerosis patients through mapping Fractional Anistropy trajectories using a multi-modal OpenNeuro DWI dataset. Key regions identified through literature include corpus callosum, thalamic and fornix regions—pipeline identifies structural degradation associated with early MS injury.
