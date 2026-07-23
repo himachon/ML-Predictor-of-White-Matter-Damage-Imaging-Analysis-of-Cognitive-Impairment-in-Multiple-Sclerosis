@@ -1,0 +1,9 @@
+,Region,Mean HS,Mean LS,Raw p,FDR p,Cohen's d
+0,Corticospinal Tract L,0.545,0.482,<0.001,<0.001,1.225
+1,Corticospinal Tract R,0.532,0.482,<0.001,<0.001,0.903
+2,Superior Longitudinal Fasciculus L,0.546,0.473,<0.001,<0.001,1.22
+3,Superior Longitudinal Fasciculus R,0.541,0.481,<0.001,<0.001,1.138
+4,Uncinate Fasciculus L,0.545,0.491,<0.001,<0.001,1.027
+5,Uncinate Fasciculus R,0.542,0.47,<0.001,<0.001,1.434
+6,Corpus Callosum Genu,0.526,0.472,<0.001,<0.001,1.148
+7,Corpus Callosum Splenium,0.554,0.476,<0.001,<0.001,1.693
