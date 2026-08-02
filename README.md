@@ -67,3 +67,13 @@ From the given results, we found that certain white matter regions posed moderat
 
 There are several limitations to this work, namely the small sample size limiting the amount of data we have to train a predictive model. With the given sample size, there is high variability in our prediction model. To improve this study in the future, we should include additional diffusion metrics (AD, RD, and MD), obtain a larger sample size, or focus primarily on the largest weighted feature white matter tract variables such as the corpus callosum and the superior corona radiata on the left hemisphere. 
 
+
+## Citations
+
+Diffusion Tensor Imaging (DTI). (n.d.). Neurosciences.ucsd.edu. https://neurosciences.ucsd.edu/centers-programs/autism/research/dti.html
+
+Javed, A., Williamson, E., & Shi, L. (2012). White and gray matter changes in early multiple sclerosis (P03.049). Neurology, 78(1_supplement), P03.049. https://doi.org/10.1212/WNL.78.1_supplement.P03.049
+
+Sun, J., Song, H., Yang, Y., Zhang, K., Gao, X., Li, X., Ni, L., Lin, P., & Niu, C. (2017). Metabolic changes in normal appearing white matter in multiple sclerosis patients using multivoxel magnetic resonance spectroscopy imaging. Medicine, 96(14), e6534. https://doi.org/10.1097/MD.0000000000006534
+
+Tafti, D., Ehsan, M., & Xixis, K. L. (2024). Multiple sclerosis. In StatPearls. StatPearls Publishing. https://www.ncbi.nlm.nih.gov/books/NBK499849/ 
