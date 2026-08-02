@@ -40,7 +40,7 @@ The following repository is organized based on modular components that distingui
 
 ## Feature Extraction
 
-[white_matter_features.csv](https://github.com/user-attachments/files/30637512/white_matter_features.csv)
+[white_matter_features.csv](/Data/white_matter.csv)
 
 
 **Table 1.** Final feature table of Fractional Anisotropy (FA) values from 8 white matter regions (Genu of corpus callosum, Body of corpus callosum, Splenium of corpus callosum, Fornix, Superior corona radiata (right), Superior corona radiata (left), Superior longitudinal fasciculus (right), and Superior longitudinal fasciculus (left)) using the JHU white matter atlas. Each row represents a subject along with mean FA values for all 8 regions. Additionally, subjects were characterized as a Control Subject (LS) or early MS patient (HS) within the “Group” column.
